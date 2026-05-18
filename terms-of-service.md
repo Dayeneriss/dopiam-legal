@@ -53,4 +53,4 @@ Ces CGU sont soumises au droit français.
 
 ## 12. Contact
 
-Pour toute question : web3dayeneriss@gmail.com
+Pour toute question : dayeneriss.apps@gmail.com
