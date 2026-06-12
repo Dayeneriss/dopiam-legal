@@ -1,6 +1,6 @@
 # Politique de confidentialité — Dopiam
 
-*Dernière mise à jour : mai 2025*
+*Dernière mise à jour : juin 2026*
 
 ## 1. Qui sommes-nous ?
 
@@ -49,13 +49,29 @@ sessions de focus) n'est transmise à RevenueCat.
 
 ## 4. Services tiers
 
-Dopiam utilise **Firebase** (Google LLC) pour l'authentification. Firebase est soumis à la [politique de confidentialité de Google](https://policies.google.com/privacy).
+Dopiam utilise les services suivants :
+
+* **Firebase (Google LLC)** — authentification. Données hébergées dans
+  l'Union européenne. Soumis à la
+  [politique de confidentialité de Google](https://policies.google.com/privacy).
+* **Google Play Billing (Google LLC)** — traitement des paiements
+  d'abonnement.
+* **RevenueCat, Inc.** — gestion technique des abonnements. RevenueCat
+  est une société américaine : les données listées en section 2.5 sont
+  transférées vers les États-Unis, dans le cadre de l'accord de
+  traitement des données (DPA) de RevenueCat et des clauses
+  contractuelles types de la Commission européenne. RevenueCat
+  n'utilise pas ces données à des fins publicitaires. Voir la
+  [politique de confidentialité de RevenueCat](https://www.revenuecat.com/privacy/).
 
 ## 5. Conservation des données
 
 - Les données de compte sont conservées tant que ton compte existe
 - Tu peux supprimer ton compte à tout moment depuis les réglages de l'app
 - Les données locales sont supprimées quand tu désinstalles l'app
+- Les données d'abonnement sont conservées par RevenueCat tant que
+  ton compte d'abonné existe, et pendant la durée nécessaire au
+  respect des obligations légales et comptables
 
 ## 6. Tes droits (RGPD)
 
