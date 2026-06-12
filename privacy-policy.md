@@ -21,6 +21,24 @@ Toutes tes données d'utilisation (routines, journal, sessions de focus, humeurs
 
 ### 2.4 Données d'authentification Google (si tu utilises Google Sign-In)
 Dopiam accède uniquement à ton email et ton nom Google pour créer ton compte. Aucune autre donnée Google n'est lue ou stockée.
+### 2.5 Données d'abonnement (si tu souscris à Dopiam Premium)
+
+Le paiement est traité exclusivement par **Google Play** : nous n'avons
+jamais accès à tes informations bancaires.
+
+Pour gérer ton abonnement (activation, renouvellement, restauration),
+nous utilisons le service **RevenueCat**. Les données suivantes lui
+sont transmises :
+
+* Ton identifiant de compte (UID Firebase) ou un identifiant anonyme
+* Les jetons d'achat Google Play (preuve d'achat technique)
+* L'historique de tes transactions d'abonnement (produit, dates,
+  statut de renouvellement)
+* Des informations techniques de base (version de l'app, modèle
+  d'appareil, langue)
+
+Aucune donnée de ton utilisation de l'app (routines, journal, humeurs,
+sessions de focus) n'est transmise à RevenueCat.
 
 ## 3. Comment nous utilisons tes données
 
