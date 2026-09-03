@@ -17,7 +17,7 @@ Dopiam est une application mobile développée par Dayeneris, développeuse ind�
 Si tu utilises l'app sans créer de compte, un identifiant anonyme temporaire est créé localement. Aucune donnée personnelle identifiable n'est collectée.
 
 ### 2.3 Données stockées localement
-Toutes tes données d'utilisation (routines, journal, sessions de focus, humeurs) sont stockées **uniquement sur ton appareil**. Elles ne sont pas transmises à nos serveurs.
+Toutes tes données d'utilisation (routines, journal, sessions de focus, humeurs) sont stockées **uniquement sur ton appareil**. Elles ne sont pas transmises à nos serveurs. Seules tes conversations avec l'assistant font exception : voir 2.6.
 
 ### 2.4 Données d'authentification Google (si tu utilises Google Sign-In)
 Dopiam accède uniquement à ton email et ton nom Google pour créer ton compte. Aucune autre donnée Google n'est lue ou stockée.
@@ -40,6 +40,18 @@ sont transmises :
 Aucune donnée de ton utilisation de l'app (routines, journal, humeurs,
 sessions de focus) n'est transmise à RevenueCat.
 
+### 2.6 Conversations avec l'assistant (si tu utilises le chat)
+
+Quand tu écris à l'assistant :
+
+- **le contenu de ton message** est transmis à Mistral AI, qui produit la réponse ;
+- **tes messages et les réponses reçues** sont conservés dans notre base de données, pour que tu retrouves ta conversation d'un lancement à l'autre ;
+- **un compteur de messages envoyés** est tenu, uniquement pour appliquer le quota d'utilisation.
+
+Ces données restent dans l'Union européenne : base de données en Belgique et aux Pays-Bas, traitement serveur en Belgique, et Mistral AI est une société française.
+
+Les règles de sécurité de la base réservent tes conversations à ton seul compte : aucun autre utilisateur ne peut y accéder. Elles ne sont utilisées ni à des fins publicitaires, ni pour établir un profil.
+
 ## 3. Comment nous utilisons tes données
 
 - **Authentification** : identifier ton compte pour accéder à l'app
@@ -51,9 +63,13 @@ sessions de focus) n'est transmise à RevenueCat.
 
 Dopiam utilise les services suivants :
 
-* **Firebase (Google LLC)** — authentification. Données hébergées dans
-  l'Union européenne. Soumis à la
+* **Firebase (Google LLC)** — authentification, base de données et mesure
+  d'audience. Données hébergées dans l'Union européenne. Soumis à la
   [politique de confidentialité de Google](https://policies.google.com/privacy).
+* **Mistral AI (France)** — génération des réponses de l'assistant. Le contenu
+  de tes messages lui est transmis pour produire la réponse. Société française,
+  données traitées dans l'Union européenne. Voir la
+  [politique de confidentialité de Mistral AI](https://mistral.ai/terms/#privacy-policy).
 * **Google Play Billing (Google LLC)** — traitement des paiements
   d'abonnement.
 * **RevenueCat, Inc.** — gestion technique des abonnements. RevenueCat
@@ -69,6 +85,8 @@ Dopiam utilise les services suivants :
 - Les données de compte sont conservées tant que ton compte existe
 - Tu peux supprimer ton compte à tout moment depuis les réglages de l'app
 - Les données locales sont supprimées quand tu désinstalles l'app
+- Tes conversations sont conservées tant que ton compte existe. Supprimer ton
+  compte efface tes messages et ton compteur d'utilisation de nos serveurs
 - Les données d'abonnement sont conservées par RevenueCat tant que
   ton compte d'abonné existe, et pendant la durée nécessaire au
   respect des obligations légales et comptables
