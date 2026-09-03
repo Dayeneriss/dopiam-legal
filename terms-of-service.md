@@ -71,7 +71,7 @@ Les paiements étant traités par Google Play, les demandes de
 remboursement sont soumises à la
 [politique de remboursement de Google Play](https://support.google.com/googleplay/answer/2479637).
 Pour toute difficulté, tu peux aussi nous contacter à
-dayeneriss.apps@gmail.com — nous chercherons toujours une solution
+dopiam210625@gmail.com — nous chercherons toujours une solution
 équitable.
 
 ### 6.7 Droit de rétractation
@@ -116,4 +116,4 @@ Ces CGU sont soumises au droit français.
 
 ## 12. Contact
 
-Pour toute question : dayeneriss.apps@gmail.com
+Pour toute question : dopiam210625@gmail.com
