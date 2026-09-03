@@ -2,6 +2,7 @@
 
 - [Politique de confidentialité](./privacy-policy.md)
 - [Conditions Générales d'Utilisation](./terms-of-service.md)
+- [Assistance](./support.md)
 
 Application : Dopiam  
 Développeur : Dayeneris
