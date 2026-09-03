@@ -4,7 +4,7 @@
 
 ## 1. Qui sommes-nous ?
 
-Dopiam est une application mobile développée par Dayeneris, développeuse indépendante. Contact : dayeneriss.apps@gmail.com
+Dopiam est une application mobile développée par Dayeneris, développeuse indépendante. Contact : dopiam210625@gmail.com
 
 ## 2. Données collectées
 
@@ -81,7 +81,7 @@ Tu as le droit de :
 - Supprimer ton compte et tes données
 - Retirer ton consentement
 
-Pour exercer ces droits : dayeneriss.apps@gmail.com
+Pour exercer ces droits : dopiam210625@gmail.com
 
 ## 7. Enfants
 
@@ -93,4 +93,4 @@ Cette politique peut être mise à jour. La date de dernière mise à jour est i
 
 ## 9. Contact
 
-Pour toute question : dayeneriss.apps@gmail.com
+Pour toute question : dopiam210625@gmail.com
